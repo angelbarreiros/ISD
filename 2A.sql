@@ -1,0 +1,1 @@
+UPDATE Event SET initCelebrationDate='2022-08-01 21:00' WHERE eventId=2;
